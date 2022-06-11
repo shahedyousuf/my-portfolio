@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Doctor's portal",
+        "Description": "Admin dashboard and functionalities are integral parts of this project. MongoDB database and server-side integration connected. Payment gateway added.",
+        "image1": "https://i.ibb.co/PtytFzB/Screenshot-149.png",
+        "image2": "https://i.ibb.co/Tt5VN0N/Screenshot-150.png",
+        "image3": "https://i.ibb.co/b5Xq5T8/Screenshot-151.png",
+        "clientLink": "https://github.com/shahedyousuf/doctors-portal-client",
+        "serverLink": "https://github.com/shahedyousuf/doctors-portal-server",
+        "websiteLink": "https://doctor-portal-99fe8.web.app/"
+    },
+    {
+        "id": 2,
+        "name": "Camera parts manufacturer ",
+        "Description": "React camera-parts manufacturer project.    React query, forms, hooks are used. Tailwind CSS, ES6 are also extensively used.",
+        "image1": "https://i.ibb.co/27xyj1x/Screenshot-152.png",
+        "image2": "https://i.ibb.co/sbwfByY/Screenshot-153.png",
+        "image3": "https://i.ibb.co/g3DFx7j/Screenshot-154.png",
+        "clientLink": "https://github.com/shahedyousuf/parts-manufacturer-client",
+        "serverLink": "https://github.com/shahedyousuf/parts-manufacturer-server",
+        "websiteLink": "https://camera-parts-manufacture-99041.web.app/"
+    },
+    {
+        "id": 3,
+        "name": "Your tutor",
+        "Description": "React educational services project. Firebase authentication implemented. Bootstrap, React bootstrap are used as well.",
+        "image1": "https://i.ibb.co/0t6Ny4K/Screenshot-155.png",
+        "image2": "https://i.ibb.co/rt6Bpjs/Screenshot-158.png",
+        "image3": "https://i.ibb.co/1f8yCs6/Screenshot-156.png",
+        "clientLink": "https://github.com/shahedyousuf/your-tutor",
+        "websiteLink": "https://independent-service-prov-96d02.web.app/"
+    }
+]
