@@ -29,7 +29,7 @@ const Details = () => {
                 <div className='info card-body w-50'>
                     <p className='text-lg'>{details?.Description}</p>
                     <a className='font-semibold text-accent' href={details?.clientLink}>Client-code</a>
-                    <a className='font-semibold text-accent' href={details?.serverLink}>Client-code</a>
+                    <a className='font-semibold text-accent' href={details?.serverLink}>Server-code</a>
                     <a className='font-semibold text-accent' href={details?.websiteLink}>Website</a>
                 </div>
             </div>
