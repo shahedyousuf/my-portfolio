@@ -4,7 +4,7 @@ import resume from '../../files/resume.pdf';
 
 const Info = () => {
     return (
-        <div class="hero min-h-screen">
+        <div id='aboutMe' class="hero min-h-screen">
             <div class="hero-content flex-col  lg:flex-row-reverse">
                 <img src={image} class="max-w-lg rounded-lg shadow-2xl" />
                 <div className='p-4'>
