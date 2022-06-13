@@ -19,7 +19,7 @@ const Details = () => {
 
     return (
         <div>
-            <h2 className='text-accent font-bold p-2 text-2xl m-4'>Details for project: {details?.name}</h2>
+            <h2 className='text-accent font-bold p-2 text-2xl m-4'>Details of project: {details?.name}</h2>
             <div className='flex justify-center items-center container'>
                 <div className='image w-50'>
                     <img className='border rounded p-2 m-2' src={details?.image1} alt="" />
