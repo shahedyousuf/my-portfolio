@@ -5,7 +5,7 @@ import { HashLink } from 'react-router-hash-link';
 
 const Footer = () => {
     return (
-        <footer class="footer footer-center p-4 mt-4 bg-accent text-base-content rounded">
+        <footer class="footer footer-center p-4 mt-4 bg-accent text-base-content rounded ">
             <div class="grid grid-flow-col gap-4">
                 <><HashLink className='text-white text-lg' smooth to='/#aboutMe'>About me</HashLink></>
                 <> <HashLink className='text-white text-lg' smooth to='/#projects'>Projects</HashLink></>

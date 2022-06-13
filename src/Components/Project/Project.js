@@ -10,7 +10,7 @@ const Project = ({ project }) => {
     }
 
     return (
-        <div class="card w-96 bg-base-100 shadow-xl">
+        <div class="card w-84 bg-base-100 shadow-xl container">
             <figure><img src={image1} alt="project" /></figure>
             <div class="card-body">
                 <h2 class="card-title">{name}</h2>

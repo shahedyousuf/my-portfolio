@@ -3,7 +3,7 @@ import { HashLink } from 'react-router-hash-link';
 
 const Header = () => {
     return (
-        <div class="navbar bg-accent p-4 min-w-max">
+        <div class="navbar bg-accent p-4 min-w-full">
             <div class="flex-1">
                 <a class="btn btn-ghost normal-case text-xl text-white">My portfolio</a>
             </div>
